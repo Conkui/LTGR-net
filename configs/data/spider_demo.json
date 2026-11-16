@@ -1,0 +1,8 @@
+{
+  "data_root": "dataset/spider",
+  "series": [],
+  "target_instance": 4,
+  "context_instances": [3, 4, 5, 204, 205],
+  "seed": 20261116,
+  "half_width_mm": 20.0
+}
